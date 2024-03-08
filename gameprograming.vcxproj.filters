@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\20240227">
+      <UniqueIdentifier>{1c134591-08dc-41cc-b036-af0ff1419974}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\20240228">
+      <UniqueIdentifier>{a2aa0df8-abc6-4c0a-83a9-43522c88e2bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\20240220">
+      <UniqueIdentifier>{896cbb2a-8fad-45e1-a712-3c8d5c800fbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\20240221">
+      <UniqueIdentifier>{642fd03b-a58f-4610-b427-ec2c4195b387}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\20240222">
+      <UniqueIdentifier>{9a9cd9c5-398b-42e9-a61f-fd66011a01f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\20240223">
+      <UniqueIdentifier>{41d6d955-9022-40b8-a508-9a7898493e4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\20240226">
+      <UniqueIdentifier>{09e2e462-6e1c-4b1a-8c96-f3f7af8f7085}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\20240229">
+      <UniqueIdentifier>{4cb5ea16-e662-4b6f-abef-4fd28dc09508}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="함수1.cpp">
+      <Filter>소스 파일\20240226</Filter>
+    </ClCompile>
+    <ClCompile Include="함수2.cpp">
+      <Filter>소스 파일\20240226</Filter>
+    </ClCompile>
+    <ClCompile Include="실습1.cpp">
+      <Filter>소스 파일\20240226</Filter>
+    </ClCompile>
+    <ClCompile Include="실습2.cpp">
+      <Filter>소스 파일\20240226</Filter>
+    </ClCompile>
+    <ClCompile Include="과제.cpp">
+      <Filter>소스 파일\20240226</Filter>
+    </ClCompile>
+    <ClCompile Include="구조타입.cpp">
+      <Filter>소스 파일\20240227</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터.cpp">
+      <Filter>소스 파일\20240227</Filter>
+    </ClCompile>
+    <ClCompile Include="20240227과제.cpp">
+      <Filter>소스 파일\20240227</Filter>
+    </ClCompile>
+    <ClCompile Include="20240220.cpp">
+      <Filter>소스 파일\20240220</Filter>
+    </ClCompile>
+    <ClCompile Include="20240221.cpp">
+      <Filter>소스 파일\20240221</Filter>
+    </ClCompile>
+    <ClCompile Include="20240222.cpp">
+      <Filter>소스 파일\20240222</Filter>
+    </ClCompile>
+    <ClCompile Include="20240223.cpp">
+      <Filter>소스 파일\20240223</Filter>
+    </ClCompile>
+    <ClCompile Include="20240228.cpp">
+      <Filter>소스 파일\20240228</Filter>
+    </ClCompile>
+    <ClCompile Include="memorytest.cpp">
+      <Filter>소스 파일\20240228</Filter>
+    </ClCompile>
+    <ClCompile Include="20240228과제(빙고).cpp">
+      <Filter>소스 파일\20240228</Filter>
+    </ClCompile>
+    <ClCompile Include="20240228빙고_1.cpp">
+      <Filter>소스 파일\20240228</Filter>
+    </ClCompile>
+    <ClCompile Include="20240229.cpp">
+      <Filter>소스 파일\20240229</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
